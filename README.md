@@ -1,1 +1,1 @@
-# retail_price_optimisation
+# Retail Price Optimisation
